@@ -2,22 +2,18 @@
 
 
 # Licubic LTD.
----
+
 
 ## What is Licubic?
----
 Licubic is a little team dev, making a game and stuffs
 
 ## What was developed by this team?
----
 A game, bot, etc.
 
 ## Where the official Discord Server?
----
 Here: http://bit.ly/ldsla
 
 ## Great! How I can collaborate with this team?
----
 I will ask the developers and staffs for this, stay tuned!
 
 Discord Server: http://bit.ly/ldsla
