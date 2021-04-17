@@ -19,6 +19,7 @@ I will ask the developers and staffs for this, stay tuned!
 ---
 
 Discord Server: http://bit.ly/ldsla
+
 Website: http://licubic.co.page/
 
 Teams and Staffs:
