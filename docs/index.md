@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+Welcome to **Licubic**!
 
-You can use the [editor on GitHub](https://github.com/Licubic/licubic/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## What is Licubic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Licubic** is a little developers team made by arvdevlazycode.
+if you want to join us, message me! I will contact you as soon as possible!
 
-### Markdown
+Contact ↓
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Instagram](http://instagram.com/arvdev) | 
+Discord: arvdevlazycode#8767
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Project We Worked On
 
-- Bulleted
-- List
+We have so many unfinished projects, I will listed in here
 
-1. Numbered
-2. List
+• WhereLy      | Powered by Music Zone
 
-**Bold** and _Italic_ and `Code` text
+• Unknown Home | Story by Sammy82
 
-[Link](url) and ![Image](src)
-```
+• Tic Tac Toe  | By arvdevlazycode 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**WE ADD PROJECTS AGAIN IN THE FUTURE SO STAY TUNED!**
 
-### Jekyll Themes
+Note:
+TicTacToe project is already finished so if you want then download and play it!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Licubic/licubic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Web: Soon
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Donate Section
+
+a.k.a begging section
+
+<http://licubic.github.io/Licubic/support>
+
+---
+## Pages
+
+<https://licubic.github.io/Licubic/pages>
