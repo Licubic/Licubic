@@ -25,8 +25,8 @@ Website: http://licubic.co.page/
 Teams and Staffs:
 - Mebn (f): https://www.youtube.com/channel/UC8aNgxavjjHDxVDM-HoT64Q [DEVELOPER]
 - ItsNicky: https://www.youtube.com/channel/UCeVWt4mecmYjOBxXBj4KmXQ [DEVELOPER]
-- Sammy82 : [Now Inactive]                                           [STORY MANAGER]
-- Pill    : [Not Have ig]
+- Sammy82 :                                                          [STORY MANAGER]
+- Pill    : [Not Have ig]                                            [MUSIC MANAGER]
 
 ---
 > Copyright Licubic Team
