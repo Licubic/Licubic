@@ -17,9 +17,9 @@ We have so many unfinished projects, I will listed in here
 
 • WhereLy | Powered by Music Zone
 
-• Unknown Home
+• Unknown Home | Story by Sammy82
 
-• Tic Tac Toe (Finished)
+• Tic Tac Toe (Finished) | By arvdevlazycode
 
 **WE ADD PROJECTS AGAIN IN THE FUTURE SO STAY TUNED!**
 
