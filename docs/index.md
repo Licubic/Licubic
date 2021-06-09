@@ -34,9 +34,7 @@ Web: Soon
 
 a.k.a begging section
 
-We created this project to you for FREE. So, if you want, donate us below!
-
-we dont have any, will add here soon.
+<http://licubic.github.io/Licubic/donate>
 
 ---
 ## Pages
