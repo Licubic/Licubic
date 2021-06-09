@@ -22,3 +22,9 @@ We have so many unfinished projects, I will listed in here
 • Tic Tac Toe (Finished)
 
 **WE ADD PROJECTS AGAIN IN THE FUTURE SO STAY TUNED!**
+
+---
+
+We created this project to you for FREE. So, if you want, donate us below!
+
+we dont have any, will add here soon.
