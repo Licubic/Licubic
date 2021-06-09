@@ -34,7 +34,7 @@ Web: Soon
 
 a.k.a begging section
 
-<http://licubic.github.io/Licubic/donate>
+<http://licubic.github.io/Licubic/support>
 
 ---
 ## Pages
