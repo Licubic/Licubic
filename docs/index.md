@@ -15,13 +15,18 @@ Discord: arvdevlazycode#8767
 
 We have so many unfinished projects, I will listed in here
 
-• WhereLy | Powered by Music Zone
+• WhereLy      | Powered by Music Zone
 
 • Unknown Home | Story by Sammy82
 
-• Tic Tac Toe (Finished) | By arvdevlazycode
+• Tic Tac Toe  | By arvdevlazycode 
 
 **WE ADD PROJECTS AGAIN IN THE FUTURE SO STAY TUNED!**
+
+Note:
+TicTacToe project is already finished so if you want then download and play it!
+
+Web: Soon
 
 ---
 
