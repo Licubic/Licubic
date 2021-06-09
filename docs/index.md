@@ -39,5 +39,6 @@ We created this project to you for FREE. So, if you want, donate us below!
 we dont have any, will add here soon.
 
 ---
+## Pages
 
-<https://licubic.github.io/Licubic/discord>
+<https://licubic.github.io/Licubic/pages>
