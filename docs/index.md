@@ -7,7 +7,7 @@ if you want to join us, message me! I will contact you as soon as possible!
 
 Contact ↓
 
-[Instagram](http://instagram.com/arvdev) | 
+[Instagram](http://instagram.com/arvdevlazycode) | 
 Discord: arvdevlazycode#8767
 
 
